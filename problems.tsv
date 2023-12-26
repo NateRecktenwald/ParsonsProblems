@@ -1,0 +1,10 @@
+def addNumbers(x, y):	______________	number2 = y	result = number1 + number2	
+CORRECT OPTION number1 = x	INCORRECT OPTION 1 def addNumbers(x, y):	INCORRECT OPTION 2 result = number1 + number2	INCORRECT OPTION 3 number2 = y	
+______________	number1 = x	number2 = y	result = number1 + number2	
+CORRECT OPTION def addNumbers(x, y):	INCORRECT OPTION 1 result = number1 + number2	INCORRECT OPTION 2 number2 = y	INCORRECT OPTION 3 number1 = x	
+def addNumbers(x, y):	number1 = x	number2 = y	______________	
+CORRECT OPTION result = number1 + number2	INCORRECT OPTION 1 number1 = x	INCORRECT OPTION 2 number2 = y	INCORRECT OPTION 3 def addNumbers(x, y):	
+def addNumbers(x, y):	number1 = x	number2 = y	______________	
+CORRECT OPTION result = number1 + number2	INCORRECT OPTION 1 number2 = y	INCORRECT OPTION 2 def addNumbers(x, y):	INCORRECT OPTION 3 number1 = x	
+def addNumbers(x, y):	______________	number2 = y	result = number1 + number2	
+CORRECT OPTION number1 = x	INCORRECT OPTION 1 result = number1 + number2	INCORRECT OPTION 2 def addNumbers(x, y):	INCORRECT OPTION 3 number2 = y	
